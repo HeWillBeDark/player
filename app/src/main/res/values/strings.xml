@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Player</string>
+
+    <plurals name="mp_directory_items_formatter">
+        <item quantity="one">%d 项目</item>
+        <item quantity="other">%d 项目</item>
+    </plurals>
+
+    <string name="mp_local_files_file_system_empty">No files under this directory</string>
+    <string name="not_video">this file maybe not a Video file.</string>
+
+    <string name="title_activity_video">VideoAct</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

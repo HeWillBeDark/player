@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3C5F78</color>
+    <color name="colorPrimaryDark">#3C5F78</color>
+    <color name="colorAccent">#DDF9FF</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Theme - Dark Blue -->
+    <color name="mp_theme_dark_blue_background">#3C5F78</color>
+
+    <color name="line">#3DDDF9FF</color>
+    <color name="list_background">#1ADDF9FF</color>
+    <color name="list_background_selected">#6CDDF9FF</color>
+    <color name="list_scrollThumb">#99DDF9FF</color>
+    <color name="list_text_title">#DDF9FF</color>
+    <color name="list_text_title_selected">#3C5F78</color>
+    <color name="list_text_hint">#9CBDCC</color>
+    <color name="list_text_hint_selected">#7C3C5F78</color>
+
+    <color name="text_hint">#9CBDCC</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
